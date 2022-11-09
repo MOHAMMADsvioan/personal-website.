@@ -1,0 +1,361 @@
+body{
+
+
+}
+
+/*
+the text under my name
+*/
+h3{
+   font-family: ;
+   display: block;
+   position: absolute;
+   top: 330px;
+   left: 280px;
+   font-size: 0.9375rem;
+   line-height: normal;
+   letter-spacing: 0.89px;
+   color: #495464;
+}
+
+
+/*
+my name with big font
+*/
+#name{
+  font-family: sacrometno;
+  position: absolute;
+  left: 280px;
+  top: 213px;
+  font-size: 531.2%;
+  display: block;
+  color: ;
+}
+
+
+
+.greating{
+  position: absolute;
+  top: 220px;
+  left: 280px;
+  font-family:
+  color: #483838;
+    display: block;
+}
+
+/*
+the dot next to my
+name,i stole this
+ideafrom someone
+called Ojieame Onimiya,
+Thanks bro!!
+*/
+.dot{
+  font-size: 90px;
+  display: inline-block;
+  color: #002E94;
+}
+
+/*
+my beautiful face-->
+*/
+.face{
+  position: absolute;
+  left: 669px;
+  top: 47px;
+  size: 200px;
+  bottom: 1px;
+}
+
+
+/*
+the two lines between
+the two paragraphs under
+my name,'cause' i didn't
+know  how to separate
+lines
+*/
+
+.two_lines{
+  position: relative;
+  bottom: 45px;
+}
+
+
+/*
+the first page of the
+website
+*/
+#front_page{
+  display: block;
+  background-color: white;
+  width: auto;
+  height: 800px;
+}
+
+
+/*
+SCROLL FOR MORE
+*/
+h4{
+  position: absolute;
+  bottom: 200px;
+  left: 270px;
+  letter-spacing: 4px;
+  size: 11px;
+  padding: 4px 15px 9px;
+
+}
+
+/*
+the second page in the
+website
+*/
+#about{
+    display: block;
+    background-color: #C8FFD4;
+    width: auto;
+    position: relative;
+    height: 900px;
+    margin-left: auto;
+
+}
+
+/*
+the containers that
+contain info about me
+*/
+
+.container1{
+   position: absolute;
+   display: block;
+   height: 260px;
+   width: 550px;
+   left: 140px;
+   bottom: 80px;
+   background-color: #9ED5C5;
+   border-radius: 30px;
+   border: 2px solid;
+}
+
+
+
+
+
+.container2{
+   position: absolute;
+   display: block;
+   height: 260px;
+   width: 550px;
+   right: 140px;
+   bottom: 80px;
+   background-color: #FFACC7;
+   border-radius: 30px;
+   border: 2px solid;
+}
+
+
+
+
+.container3{
+   position: absolute;
+   display: block;
+   height: 260px;
+   width: 550px;
+   left: 140px;
+   top: 80px;
+   background-color: #FEB139;
+   border-radius: 30px;
+   border: 2px solid;
+}
+
+
+
+
+.container4{
+   position: absolute;
+   display: block;
+   height: 260px;
+   width: 550px;
+   right: 140px;
+   top: 80px;
+   background-color: #FBF46D;
+   border-radius: 30px;
+   border: 2px solid;
+}
+
+
+/*
+the titles in the
+containers , cause i
+didn't know how to
+style them unseparatly
+*/
+
+
+.general{
+  padding: 24px 50px 0 25px;
+  font-size: 2.457rem;
+  font-weight: bold;
+  margin: 10px 0 10px 0;
+}
+
+
+
+
+.skills{
+  padding: 24px 50px 0 25px;
+  font-size: 2.457rem;
+  font-weight: bold;
+  margin: 10px 0 10px 0;
+
+}
+
+
+.hoobies{
+  padding: 17px 50px 0 25px;
+  font-size: 2.457rem;
+  font-weight: bold;
+  margin: 10px 0 10px 0;
+}
+
+
+
+
+.achievements{
+  padding: 24px 50px 0 25px;
+  font-size: 2.457rem;
+  font-weight: bold;
+  margin: 10px 0 10px 0;
+}
+
+
+
+
+h2{
+  padding: 24px 50px 0 25px;
+  font-size: 2.457rem;
+  font-weight: bold;
+  margin: 10px 0 10px 0;
+}
+
+
+/*
+the text inside the containers
+*/
+p{
+  padding: 0 30px 90px 30px;
+  font-family:'Atkinson Hyperlegible', sans-serif;
+  font-size: 16px;
+  line-height: 1.8em;
+  text-align: left;
+  letter-spacing: 1.2px;
+
+}
+
+
+hr{
+  position: absolute;
+  bottom: 174px;
+  left: 280px;
+  width: 270px;
+  height: 50px;
+  border-top: 4px dotted;
+  color: #3898EC;
+}
+
+
+
+/*
+the third page of the
+website
+*/
+
+#personal{
+  height: 156.25rem;
+  width: 96.5625;
+  position: absolute;
+  background: white;
+}
+
+
+/*
+the next three divs
+are for the section
+that i apologize for
+lying in the about section
+*/
+
+
+.hr1{
+  background-color: white;
+  border-top: 16px dotted grey;
+  border-style: dotted;
+  height: 2.5rem;
+  width: 17.5rem;
+  position: absolute;
+  top: 6.25rem;
+  left: 40.625rem;
+
+}
+
+.hr2{
+  background-color: white;
+  border-top: 16px dotted grey;
+  border-style: dotted;
+  height: 2.5rem;
+  width: 17.5rem;
+  position: absolute;
+  top: 15rem;
+  left: 40.625rem;
+}
+
+
+.sorry{
+  position: absolute;
+  top: 9.9375rem;
+  left: 39.06rem;
+  letter-spacing: 1px;
+}
+
+
+
+
+/*
+i really don't know what
+the fuck i wrote that, i
+tried to do something in
+bootstrap but it didn't work
+and i'm to lazy to delet it or
+debugging the code
+*/
+.row{
+  position: relative;
+  top: 28.125rem;
+
+}
+
+
+.text{
+  font-size: 1.125rem;
+  font-weight: 300;
+  line-height: 1.78;
+  color: #495464;
+}
+
+
+#footer{
+  height: 21.25rem;
+  width: 96.56rem;
+  background-color: #C8FFD4;
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+  top: 4100px;
+}
+
+.date{
+  position: relative;
+  text-align: center;
+  top: 6.6em
+}
